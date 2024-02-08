@@ -14,7 +14,7 @@ var love = setInterval(function(){
   
   var i = 0;
   var txt1 = "Hi SweetHeart.....!  <<               Now I wan't to say something special to you.<<                So , Please read everything carefully...!                                                                           > When I saw you for the first time < You seems something Special to me.  <<                  As the days goes < you get closer to me....! <<                           I don't know the reason why your thoughts always resonates inside my mind...!                                                     > Everything about you is always intresting for me...!                     << I am Happy to U in my life and I eagarly waiting for our togetherness ...!                                                     > I Love my Parents so much than anything else in this world....!                    << Now You are the only person  whom I love equally with my parents....! << u are my love u are my everything...!                                                   >I Love U <SweetHeart🥰💖.....!                  <<<< Happy Valentines Day My love ❤️😘 ...!";
-  var speed = 15;
+  var speed = 20;
 
  
 
